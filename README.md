@@ -20,10 +20,12 @@
  ```$ mkdir ``` Verzeichnis erstellen
 
 ## Git
-```$ git init``` 
+```$ git init```  Am Anfang initialisieren
 
-```$ git add "File to add"```
+```$ git add "File to add"``` Datei stagen
 
-```$ git commit -m "Commit Message"```
+```$ git commit -m "Commit Message"``` Änderungen comitten
 
-```$ git push -u origin master```
+```$ git push -u origin master``` Hochladen zu z.B. Github
+
+```$ git branch``` Branches ansehen
