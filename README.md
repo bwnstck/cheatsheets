@@ -27,5 +27,3 @@
 ```$ git commit -m "Commit Message"```
 
 ```$ git push -u origin master```
-
-```$ git push -u origin master```
