@@ -11,10 +11,13 @@
 
 ## Shell
 
- ```$ cd ```
- ```$ pwd ```
- ```$ rm ```
- ```$ mkdir ```
+ ```$ cd ``` in Verzeichnis wechseln
+
+ ```$ pwd ``` Verzeichnis anzeigen
+ 
+ ```$ rm ``` Datei löschen
+ 
+ ```$ mkdir ``` Verzeichnis erstellen
 
 ## Git
 ```$ git init``` 
