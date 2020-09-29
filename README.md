@@ -29,3 +29,5 @@
 ```$ git push -u origin master``` Hochladen zu z.B. Github
 
 ```$ git branch``` Branches ansehen
+
+![YaY](https://media.giphy.com/media/pa37AAGzKXoek/giphy.gif)
