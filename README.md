@@ -43,6 +43,15 @@
 
 `$ git push -u origin NeueBranch` | Hochladen zu z.B. Github
 
-`git merge master` | im Branch, den Master mergen
+`$ git merge master` | im Branch, den Master mergen
+
+### Adden und Comitten in einem Schritt
+
+`$ git commit -am "commitmessage"` | neue Dateien müssen dennoch mit `$git add `hinzugefügt werden
+
+## Link-Sammlung
+
+[OH Shit GIT](https://ohshitgit.com)
+[Lynx Browser 4 Accesbility](https://wiki.ubuntuusers.de/Lynx/)
 
 ![YaY](https://media.giphy.com/media/pa37AAGzKXoek/giphy.gif)
