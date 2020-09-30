@@ -4,30 +4,45 @@
          (__)
          (oo)
    /------\/     __        O         __O       .___.     <( ,, )>
-  / |    ||     /o)\      /H\      _\-<,       {o,o}     ( (..) )    (-_(-_(-_-)_-)_-)
+  / |     | |      /o)\      /H\      _\-<,       {o,o}     ( (..) )    (-_(-_(-_-)_-)_-)
  *  /\---/\     \(o/      / \    _(_)/(_)_     /)__)        -
     ~~   ~~      ¯¯                            -"-"-
 </pre>
 
 ## Shell
 
- ```$ cd ``` in Verzeichnis wechseln
+`$ cd ` | in Verzeichnis wechseln
 
- ```$ pwd ``` Verzeichnis anzeigen
- 
- ```$ rm ``` Datei löschen
- 
- ```$ mkdir ``` Verzeichnis erstellen
+`$ pwd ` | Verzeichnis anzeigen
+
+`$ rm ` | Datei löschen
+
+`$ mkdir ` | Verzeichnis erstellen
 
 ## Git
-```$ git init```  Am Anfang initialisieren
 
-```$ git add "File to add"``` Datei stagen
+`$ git init` | Am Anfang initialisieren
 
-```$ git commit -m "Commit Message"``` Änderungen comitten
+`$ git add "File to add"` | Datei stagen
 
-```$ git push -u origin master``` Hochladen zu z.B. Github
+`$ git commit -m "Commit Message"` | Änderungen comitten
 
-```$ git branch``` Branches ansehen
+`$ git push -u origin master` | Hochladen zu z.B. Github
+
+`$ git branch` | Branches ansehen
+
+### Änderungen an vorhandenen Projekten
+
+`$ git checkout -b NeueBranch` |
+
+`$ git add .` | alles adden
+
+`Änderungen hinzufügen`
+
+`$ git commit -m "Commit Message"` | Änderungen comitten
+
+`$ git push -u origin NeueBranch` | Hochladen zu z.B. Github
+
+`git merge master` | im Branch, den Master mergen
 
 ![YaY](https://media.giphy.com/media/pa37AAGzKXoek/giphy.gif)
