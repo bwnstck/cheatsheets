@@ -45,6 +45,10 @@
 
 `$ git merge master` | im Branch, den Master mergen
 
+`$ git stash` | geschriebenen Code im Stash zwischenspeichern
+
+`$ git stash pop` | im neuen Branch einfügen
+
 ### Adden und Comitten in einem Schritt
 
 `$ git commit -am "commitmessage"` | neue Dateien müssen dennoch mit `$git add `hinzugefügt werden
@@ -55,3 +59,9 @@
 [Lynx Browser 4 Accesbility](https://wiki.ubuntuusers.de/Lynx/)
 
 ![YaY](https://media.giphy.com/media/pa37AAGzKXoek/giphy.gif)
+
+### VSCODE
+
+- <kbd>cmd</kbd>+<kbd>Shift</kbd>+<kbd>L</kbd> => alles auswählen
+
+<p>&#128540</p>
