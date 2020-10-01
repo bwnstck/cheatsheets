@@ -53,6 +53,9 @@
 
 `$ git commit -am "commitmessage"` | neue Dateien müssen dennoch mit `$git add `hinzugefügt werden
 
+`$ npm install` | Paketabhängigkeiten installieren
+`$ npm run dev` | Dev-Server starten
+
 ## Link-Sammlung
 
 [OH Shit GIT](https://ohshitgit.com)
